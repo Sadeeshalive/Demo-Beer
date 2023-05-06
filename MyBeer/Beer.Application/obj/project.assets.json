@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MediatR/9.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Beer.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Beer.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Beer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatR/9.0.0": {
+      "sha512": "8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "type": "package",
+      "path": "mediatr/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.9.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "Beer.Core/1.0.0": {
+      "type": "project",
+      "path": "../Beer.Core/Beer.Core.csproj",
+      "msbuildProject": "../Beer.Core/Beer.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Beer.Core >= 1.0.0",
+      "MediatR >= 9.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\Beer.Application.csproj",
+      "projectName": "Beer.Application",
+      "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\Beer.Application.csproj",
+      "packagesPath": "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sadeesh_Kumar_S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-local": {},
+        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-virtual": {},
+        "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj": {
+              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

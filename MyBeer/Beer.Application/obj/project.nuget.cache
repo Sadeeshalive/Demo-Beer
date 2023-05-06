@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lLX+pL3HGnxr6/C2nrdFcVZxZgt5dNd6q0CmDqQ/QEhXjI2dDoy2M7uZptqq0vovL42qWWMn7fzVvsdd14V2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\Beer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
