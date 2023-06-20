@@ -7140,11 +7140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Api\\Beer.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Api\\Beer.Api.csproj",
       "projectName": "Beer.Api",
-      "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Api\\Beer.Api.csproj",
+      "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Api\\Beer.Api.csproj",
       "packagesPath": "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Api\\obj\\",
+      "outputPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7158,24 +7158,22 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-local": {},
-        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-virtual": {},
-        "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-virtual": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\Beer.Application.csproj": {
-              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Application\\Beer.Application.csproj"
+            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Application\\Beer.Application.csproj": {
+              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Application\\Beer.Application.csproj"
             },
-            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj": {
-              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj"
+            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Core\\Beer.Core.csproj": {
+              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Core\\Beer.Core.csproj"
             },
-            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj"
+            "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj"
             }
           }
         }

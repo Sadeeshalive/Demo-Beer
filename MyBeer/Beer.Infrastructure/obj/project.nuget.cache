@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46/3fyMQ08ITZ/nO5rk/rOX+iEtY7BH140nRLgAMcXFMYHUrfK+PoDMhvAC/G4XKXi21dxeNPygmTCv6nbLGlg==",
+  "dgSpecHash": "h08UztJQ4WEcaa3rGye/lGm51WL1sWqG/pw9sM6AbSbkzLrQf52yxQrXscroEdnSiRX2FZvNaGL+Ec6hjXblqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Infrastructure\\Beer.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

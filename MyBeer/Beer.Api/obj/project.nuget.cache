@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXejJXx95XL/zhb1zOtjZ7AzjnUSmp4zFn+/iq1ENQB7Xsyf1mqpuZH++gyxLI323phrN9X6eJTyCx13v6FdHQ==",
+  "dgSpecHash": "d0tzKU/JKCfrvvKrsPGgQKr7ipissprZ/yckT4KRJ6emHQ6HlUMrjJZEtgtP74BqDxhperw5OIo/q22d5IN9FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Api\\Beer.Api.csproj",
+  "projectFilePath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Api\\Beer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

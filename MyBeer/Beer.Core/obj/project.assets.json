@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Core\\Beer.Core.csproj",
       "projectName": "Beer.Core",
-      "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\Beer.Core.csproj",
+      "projectPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Core\\Beer.Core.csproj",
       "packagesPath": "C:\\Users\\Sadeesh_Kumar_S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\MyBeer\\Beer.Core\\obj\\",
+      "outputPath": "C:\\Users\\Sadeesh_Kumar_S\\source\\repos\\Demo-Beer\\MyBeer\\Beer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,9 @@
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-local": {},
-        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-virtual": {},
-        "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {}
+        "https://artifacts.dell.com/artifactory/api/nuget/dsa-1000318-nuget-prd-virtual": {}
       },
       "frameworks": {
         "net6.0": {
